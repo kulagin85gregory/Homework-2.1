@@ -2,27 +2,27 @@
 // let a = 10;
 // alert (a);
 // a = 20;
-// alert (a);
+// alert(a);
 
 //Задание 2
 // let releaseOfIphone = 2007;
-// alert (releaseOfIphone);
+// alert(releaseOfIphone);
 
 // Задание 3
 // let creatorOfJavaScript ='Вrendan Eyck';
-// alert (creatorOfJavaScript);
+// alert(creatorOfJavaScript);
 
 //Задание 4
 // let a = 10;
 // let b = 2;
-// alert (a + b);
-// alert (a - b);
-// alert (a * b);
-// alert (a / b);
+// alert(a + b);
+// alert(a - b);
+// alert(a * b);
+// alert(a / b);
 
 //Задание 5
-// let result = (5**2);
-// alert (result);
+// let result = (2**5);
+// alert(result);
 
 //Задание 6
 // let a = 9;
@@ -35,13 +35,13 @@
 // num -= 3;
 // num *= 7;
 // num /= 3;
-// num ++ 1;
-// num -- 1;
+// num ++;
+// num --;
 // alert(num);
 
 //Задание 8
-// let age = prompt ("Сколько вам лет?");
-// alert (age);
+// let age = prompt("Сколько вам лет?");
+// alert(age);
 
 //Задание 9.0
 // let user = {
@@ -49,22 +49,22 @@
 //     age: 30,
 //     isAdmit: true
 // };
-// console.log (user);
+// console.log(user);
 
 // // Задание 9.1
-// user.cityOfResidence = "Moscow";
-// console.log (user);
+// user["city Of rsidence"] = "город";
+// console.log(user);
 
 // // Задание 9.2
 // user.age = 20;
-// console.log (user);
+// console.log(user);
 
 // // Задание 9.3
-// delete user.cityOfResidence;
+// delete["city Of rsidence"];
 
 // // Задание 9.4
-// let info = prompt ("Какую информацию хотите узнать о пользователе?","name","age","isAdmit");
-// alert (user[info]);
+// let info = prompt("Какую информацию хотите узнать о пользователе?","name","age","isAdmit");
+// alert(user[info]);
 
 // Задание 10
 // let name = prompt("Как вас зовут?");
