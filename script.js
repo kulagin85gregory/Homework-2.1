@@ -52,7 +52,7 @@
 // console.log(user);
 
 // // Задание 9.1
-// user["city Of rsidence"] = "город";
+// user["city Of residence"] = "город";
 // console.log(user);
 
 // // Задание 9.2
@@ -60,7 +60,7 @@
 // console.log(user);
 
 // // Задание 9.3
-// delete["city Of rsidence"];
+// delete user["city of residence"];
 
 // // Задание 9.4
 // let info = prompt("Какую информацию хотите узнать о пользователе?","name","age","isAdmit");
