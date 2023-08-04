@@ -52,7 +52,7 @@
 // console.log(user);
 
 // // Задание 9.1
-// user["city Of residence"] = "город";
+// user["city of residence"] = "город";
 // console.log(user);
 
 // // Задание 9.2
